@@ -24,3 +24,18 @@
     color: white;
     border-radius: 10px;
 }
+.titre2{
+    font-size: 30px;
+}
+.btn{
+    background-color: #000000;
+    color: #ffffff;
+    margin-top: 15px;
+    margin-right: 120px;
+    width: 100;
+}
+.btn-hoover{
+    background-color: #ffffff;
+    color: "000000";
+    stroke-width: 35px;
+}
