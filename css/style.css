@@ -32,10 +32,38 @@
     color: #ffffff;
     margin-top: 15px;
     margin-right: 120px;
-    width: 100;
+    width: 100%;
 }
 .btn-hoover{
     background-color: #ffffff;
     color: "000000";
-    stroke-width: 35px;
+    stroke-width: 50%;
+}
+.bgportfolio{
+    background-color: pink;
+    
+}
+.img1{
+    border-radius: 15px;
+}
+.imagmargin{
+    margin-top: 50px;
+    margin-right: 100px;
+    border-radius: 20px;
+}
+.imagemargin1{
+    margin-right: 100px;
+    border-radius: 20px;
+}
+.text-1{
+    color: gray;
+}
+.card-spec1{
+    background-color: rgb(0, 0, 0);
+    padding: 5%;
+    border-radius: 10px;
+    stroke: #ffffff;
+}
+.bg-color1{
+    background-color: #000000;
 }
