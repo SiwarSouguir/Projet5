@@ -67,3 +67,28 @@
 .bg-color1{
     background-color: #000000;
 }
+.text-contact{
+    color: red;
+    font-size: 70px;
+    margin-bottom: 10%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+input , select , textarea{
+    margin-top: 2%;
+    background-color: rgb(221, 221, 221) !important;
+    border: 2px black solid !important; 
+}
+#but{
+    margin-top: 2%;
+    width: 50%;
+    background-color: red;
+    margin-left: 25%;
+}
+#but:hover{
+    margin-top: 2%;
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+    margin-left: 25%;
+    border: 2px black solid;
+    color: black;
+}
